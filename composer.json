@@ -1,0 +1,15 @@
+{
+    "name": "appoets/laravel-setup",
+    "description": "Laravel 5.3 web installer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ayokesh",
+            "email": "ayokesh.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
