@@ -1,5 +1,5 @@
 {
-    "name": "appoets/laravel-setup-wizard",
+    "name": "appoets/laravel-setup-installer",
     "description": "Laravel 5.3 web installer",
     "type": "composer-plugin",
     "license": "MIT",
