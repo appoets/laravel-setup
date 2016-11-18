@@ -15,7 +15,7 @@ The current features are :
 First, pull in the package through Composer.
 
 ```
-composer require "appoets/laravel-setup-installer":"*"
+composer require "appoets/laravel-setup-installer":"dev-master"
 
 ```
 
